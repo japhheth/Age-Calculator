@@ -1,0 +1,6 @@
+c:\users\japhh\documents\visual studio 2015\Projects\ClassesInt\ClassesInt\bin\Debug\ClassesInt.exe.config
+c:\users\japhh\documents\visual studio 2015\Projects\ClassesInt\ClassesInt\bin\Debug\ClassesInt.exe
+c:\users\japhh\documents\visual studio 2015\Projects\ClassesInt\ClassesInt\bin\Debug\ClassesInt.pdb
+c:\users\japhh\documents\visual studio 2015\Projects\ClassesInt\ClassesInt\obj\Debug\ClassesInt.csprojResolveAssemblyReference.cache
+c:\users\japhh\documents\visual studio 2015\Projects\ClassesInt\ClassesInt\obj\Debug\ClassesInt.exe
+c:\users\japhh\documents\visual studio 2015\Projects\ClassesInt\ClassesInt\obj\Debug\ClassesInt.pdb
